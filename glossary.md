@@ -381,7 +381,7 @@ See https://secwww.jhuapl.edu/IACD/ for more information.
 
 **OpenC2** - <a name="oc2">In</a> the context of the OASIS OpenC2 Specifications<sup>[1](#footnote01),[2](#footnote02),[3](#footnote03),[4](#footnote04)</sup>, OpenC2 used alone is generally shorthand for the OpenC2 Language. OpenC2 used as an adjective can usually be inferred by context to mean the some aspect from the collection of the specifications.
 
-**Orchestrator - In IT and security there are many types of orchestrators. 
+**Orchestrator** - In IT and security there are many types of orchestrators. 
 in the context of openC2 the word orchestrator is defined more narrowly to mean “what goes here”
 
 **OrchID** - 
