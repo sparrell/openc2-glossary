@@ -340,10 +340,14 @@ sense making augments the ip with the domain evildomain.com.
 Decision making decides to send the "mitigate evildomaing.com" 
 OpenC2 command to Acting.
 
+**Device** - in the context of OpenC2, put stuff here re device/function
+
 ### 3.2 F-I
 
 
 **Firewall** -in the context of openC2, firewall denotes the firewall functionality of an actuator ie hardware and/or software system that monitors incoming and outgoing network traffic and controls that traffic (eg logs, blocks, allows) based on security policy defined by a set of rules.
+
+**Function** - in the context of OpenC2, put stuff here re device/function
 
 **IACD** - see Integrated Active Cyber Defense<sup>[def](#iacd)</sup>
 
